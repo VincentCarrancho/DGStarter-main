@@ -40,10 +40,7 @@ class DetailViewController: UIViewController {
             factLabel4.text = String(dinosaur.speed) + " mph"
         }
         // Do any additional setup after loading the view.
-        
-        
     }
-    
 
     /*
     // MARK: - Navigation
